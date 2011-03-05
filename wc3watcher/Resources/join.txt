@@ -1,0 +1,8 @@
+Your friend (.+) entered a (.+) game called (.+)\.
+Ihr Freund (.+) hat sich in ein (.+)-Spiel mit dem Namen (.+) (e|ei|ein|eing|einge|eingek|eingekl|eingekli|eingeklin|eingekling|eingeklingt|eingeklingt\.)
+Votre ami (.+) est entré dans une partie (.+) nommée (.+)\.
+Tu amigo (.+) ha entrado un (.+) juego llamado (.+)\.
+Il tuo amico (.+) si è connesso ad una sessione di (.+) chiamata (.+)\.
+Twoj druk (.+) saschol sjegroj (.+) wjegru (.+)\.
+Twój przyjaciel, (.+) dolacza do (.+) rozgrywki nazywanej (.+)\.
+Váš prítel (.+) se zapojil do hry (.+) založené (.+)\.
